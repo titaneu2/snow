@@ -4146,26 +4146,7 @@
             "Rewards": []
           },
           {
-            "Rewards": [
-              {
-                "ItemDefinition": {
-                  "AssetPathName": "/Game/Athena/Items/BannerToken/BannerToken_056_S14_HighTowerDate.BannerToken_056_S14_HighTowerDate",
-                  "SubPathString": ""
-                },
-                "TemplateId": "",
-                "Quantity": 1,
-                "RewardGiftBox": {
-                  "GiftBoxToUse": {
-                    "AssetPathName": "None",
-                    "SubPathString": ""
-                  },
-                  "GiftBoxFormatData": []
-                },
-                "IsChaseReward": false,
-                "RewardType": "EAthenaRewardItemType::Normal",
-                "RewardVisualImportanceType": "EAthenaRewardVisualImportanceType::Normal"
-              }
-            ]
+            "Rewards": []
           },
           {
             "Rewards": []
@@ -4264,26 +4245,7 @@
             ]
           },
           {
-            "Rewards": [
-              {
-                "ItemDefinition": {
-                  "AssetPathName": "/Game/Athena/Items/BannerToken/BannerToken_059_S14_HighTowerMango.BannerToken_059_S14_HighTowerMango",
-                  "SubPathString": ""
-                },
-                "TemplateId": "",
-                "Quantity": 1,
-                "RewardGiftBox": {
-                  "GiftBoxToUse": {
-                    "AssetPathName": "None",
-                    "SubPathString": ""
-                  },
-                  "GiftBoxFormatData": []
-                },
-                "IsChaseReward": false,
-                "RewardType": "EAthenaRewardItemType::Normal",
-                "RewardVisualImportanceType": "EAthenaRewardVisualImportanceType::Normal"
-              }
-            ]
+            "Rewards": []
           },
           {
             "Rewards": []
@@ -5199,26 +5161,7 @@
             "Rewards": []
           },
           {
-            "Rewards": [
-              {
-                "ItemDefinition": {
-                  "AssetPathName": "/Game/Athena/Items/BannerToken/BannerToken_062_S14_HighTowerTapas.BannerToken_062_S14_HighTowerTapas",
-                  "SubPathString": ""
-                },
-                "TemplateId": "",
-                "Quantity": 1,
-                "RewardGiftBox": {
-                  "GiftBoxToUse": {
-                    "AssetPathName": "None",
-                    "SubPathString": ""
-                  },
-                  "GiftBoxFormatData": []
-                },
-                "IsChaseReward": false,
-                "RewardType": "EAthenaRewardItemType::Normal",
-                "RewardVisualImportanceType": "EAthenaRewardVisualImportanceType::Normal"
-              }
-            ]
+            "Rewards": []
           },
           {
             "Rewards": [
@@ -5497,26 +5440,7 @@
             "Rewards": []
           },
           {
-            "Rewards": [
-              {
-                "ItemDefinition": {
-                  "AssetPathName": "/Game/Athena/Items/BannerToken/BannerToken_058_S14_HighTowerHoneyDew.BannerToken_058_S14_HighTowerHoneyDew",
-                  "SubPathString": ""
-                },
-                "TemplateId": "",
-                "Quantity": 1,
-                "RewardGiftBox": {
-                  "GiftBoxToUse": {
-                    "AssetPathName": "None",
-                    "SubPathString": ""
-                  },
-                  "GiftBoxFormatData": []
-                },
-                "IsChaseReward": false,
-                "RewardType": "EAthenaRewardItemType::Normal",
-                "RewardVisualImportanceType": "EAthenaRewardVisualImportanceType::Normal"
-              }
-            ]
+            "Rewards": []
           },
           {
             "Rewards": [
@@ -5723,26 +5647,7 @@
             ]
           },
           {
-            "Rewards": [
-              {
-                "ItemDefinition": {
-                  "AssetPathName": "/Game/Athena/Items/BannerToken/BannerToken_057_S14_HighTowerGrape.BannerToken_057_S14_HighTowerGrape",
-                  "SubPathString": ""
-                },
-                "TemplateId": "",
-                "Quantity": 1,
-                "RewardGiftBox": {
-                  "GiftBoxToUse": {
-                    "AssetPathName": "None",
-                    "SubPathString": ""
-                  },
-                  "GiftBoxFormatData": []
-                },
-                "IsChaseReward": false,
-                "RewardType": "EAthenaRewardItemType::Normal",
-                "RewardVisualImportanceType": "EAthenaRewardVisualImportanceType::Normal"
-              }
-            ]
+            "Rewards": []
           },
           {
             "Rewards": []
@@ -5883,26 +5788,7 @@
             ]
           },
           {
-            "Rewards": [
-              {
-                "ItemDefinition": {
-                  "AssetPathName": "/Game/Athena/Items/BannerToken/BannerToken_060_S14_HighTowerRadish.BannerToken_060_S14_HighTowerRadish",
-                  "SubPathString": ""
-                },
-                "TemplateId": "",
-                "Quantity": 1,
-                "RewardGiftBox": {
-                  "GiftBoxToUse": {
-                    "AssetPathName": "None",
-                    "SubPathString": ""
-                  },
-                  "GiftBoxFormatData": []
-                },
-                "IsChaseReward": false,
-                "RewardType": "EAthenaRewardItemType::Normal",
-                "RewardVisualImportanceType": "EAthenaRewardVisualImportanceType::Normal"
-              }
-            ]
+            "Rewards": []
           },
           {
             "Rewards": [
@@ -5996,26 +5882,7 @@
             ]
           },
           {
-            "Rewards": [
-              {
-                "ItemDefinition": {
-                  "AssetPathName": "/Game/Athena/Items/BannerToken/BannerToken_061_S14_HighTowerSquash.BannerToken_061_S14_HighTowerSquash",
-                  "SubPathString": ""
-                },
-                "TemplateId": "",
-                "Quantity": 1,
-                "RewardGiftBox": {
-                  "GiftBoxToUse": {
-                    "AssetPathName": "None",
-                    "SubPathString": ""
-                  },
-                  "GiftBoxFormatData": []
-                },
-                "IsChaseReward": false,
-                "RewardType": "EAthenaRewardItemType::Normal",
-                "RewardVisualImportanceType": "EAthenaRewardVisualImportanceType::Normal"
-              }
-            ]
+            "Rewards": []
           },
           {
             "Rewards": []
@@ -6739,26 +6606,7 @@
             ]
           },
           {
-            "Rewards": [
-              {
-                "ItemDefinition": {
-                  "AssetPathName": "/Game/Athena/Items/BannerToken/BannerToken_063_S14_HighTowerTomato.BannerToken_063_S14_HighTowerTomato",
-                  "SubPathString": ""
-                },
-                "TemplateId": "",
-                "Quantity": 1,
-                "RewardGiftBox": {
-                  "GiftBoxToUse": {
-                    "AssetPathName": "None",
-                    "SubPathString": ""
-                  },
-                  "GiftBoxFormatData": []
-                },
-                "IsChaseReward": false,
-                "RewardType": "EAthenaRewardItemType::Normal",
-                "RewardVisualImportanceType": "EAthenaRewardVisualImportanceType::Normal"
-              }
-            ]
+            "Rewards": []
           },
           {
             "Rewards": []
